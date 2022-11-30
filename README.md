@@ -8,11 +8,11 @@ See the [Donate SDK documentation](https://developer.paypal.com/sdk/donate/) on 
 
 ## Demo Site Pages
 
-- [Home page with CSS button, full page payment](https://prophen.github.io/cat-rescue-donation-button/)
-- [Home page with PayPal button, pop-up payment](https://prophen.github.io/cat-rescue-donation-button/with-paypal-button)
-- [Home page with custom hosted button image, pop-up payment](https://prophen.github.io/cat-rescue-donation-button/custom-button)
-- [Cancel page](https://prophen.github.io/cat-rescue-donation-button/cancel)
-- [Completed donation page](https://prophen.github.io/cat-rescue-donation-button/completed)
+- [Home page with CSS button, full page payment](https://paypaldev.github.io/cat-rescue-donation-button/)
+- [Home page with PayPal button, pop-up payment](https://paypaldev.github.io/cat-rescue-donation-button/with-paypal-button)
+- [Home page with custom hosted button image, pop-up payment](https://paypaldev.github.io/cat-rescue-donation-button/custom-button)
+- [Cancel page](https://paypaldev.github.io/cat-rescue-donation-button/cancel)
+- [Completed donation page](https://paypaldev.github.io/cat-rescue-donation-button/completed)
 
 ### Example Buttons
 
