@@ -28,11 +28,11 @@ See the [Donate SDK documentation](https://developer.paypal.com/sdk/donate/) on 
 
 ## Demo Site Pages
 
-- [Home page with CSS button, full page payment](https://paypaldev.github.io/Donate-SDK-sample-app/)
-- [Home page with PayPal button, pop-up payment](https://paypaldev.github.io/Donate-SDK-sample-app/with-paypal-button)
-- [Home page with custom hosted button image, pop-up payment](https://paypaldev.github.io/Donate-SDK-sample-app/custom-button)
-- [Cancel page](https://paypaldev.github.io/Donate-SDK-sample-app/cancel)
-- [Completed donation page](https://paypaldev.github.io/Donate-SDK-sample-app/completed)
+- [Home page with CSS button, full page payment](https://paypaldev.github.io/PayPal-Donate-SDK-Sample/)
+- [Home page with PayPal button, pop-up payment](https://paypaldev.github.io/PayPal-Donate-SDK-Sample/with-paypal-button)
+- [Home page with custom hosted button image, pop-up payment](https://paypaldev.github.io/PayPal-Donate-SDK-Sample/custom-button)
+- [Cancel page](https://paypaldev.github.io/PayPal-Donate-SDK-Sample/cancel)
+- [Completed donation page](https://paypaldev.github.io/PayPal-Donate-SDK-Sample/completed)
 
 ### Example Buttons
 
