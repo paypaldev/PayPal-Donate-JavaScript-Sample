@@ -51,3 +51,12 @@ Example pages to send a donor back to your website when they cancel or complete 
 ![screenshot of cancel.html](images/cancel.png)
 [Completed Donation](completed.html)
 ![screenshot of completed.html](images/completed.png)
+
+## PayPal Developer Community
+
+The PayPal Developer community helps you build your career, while also improving PayPal products and the developer experience. You’ll be able to contribute code and documentation, meet new people and learn from the open source community.
+
+* Website: [developer.paypal.com](https://developer.paypal.com)
+* Twitter: [@paypaldev](https://twitter.com/paypaldev)
+* Github:  [@paypal](https://github.com/paypal)
+
